@@ -1,0 +1,24 @@
+dimension,group,learners,at_risk,avg_risk_score,at_risk_rate_pct
+gender,Female,3715,899,0.3216,24.2
+gender,Male,3195,728,0.3154,22.79
+gender,Non-binary,122,32,0.3694,26.23
+residency,In-State,4436,1051,0.3226,23.69
+residency,International,717,171,0.3096,23.85
+residency,Out-of-State,1879,437,0.3164,23.26
+enrollment_status,Full-Time,5112,1070,0.3039,20.93
+enrollment_status,Part-Time,1920,589,0.3615,30.68
+modality,Hybrid,1376,337,0.323,24.49
+modality,In-Person,3854,897,0.3292,23.27
+modality,Online,1802,425,0.2965,23.58
+college,Business,1374,313,0.3161,22.78
+college,Education,726,178,0.3332,24.52
+college,Engineering,1556,350,0.314,22.49
+college,Health Sciences,1053,262,0.3329,24.88
+college,Liberal Arts,1284,309,0.3196,24.07
+college,Sciences,1039,247,0.3096,23.77
+housing,Off-Campus,6010,1451,0.3196,24.14
+housing,On-Campus,1022,208,0.3197,20.35
+first_generation,0,4672,1080,0.3189,23.12
+first_generation,1,2360,579,0.321,24.53
+pell_eligible,0,4625,1040,0.3092,22.49
+pell_eligible,1,2407,619,0.3396,25.72

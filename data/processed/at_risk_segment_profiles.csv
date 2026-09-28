@@ -1,0 +1,5 @@
+segment,learners,credit_completion_ratio,term_gpa,assignment_submission_rate,late_submission_rate,engagement_index,login_trend,days_since_last_login,support_touchpoints,financial_hold,part_time,work_hours_per_week,first_generation,risk_score,share_of_at_risk_pct,recommended_intervention
+"Academically Struggling, Still Engaged",785,0.812,2.385,0.743,0.242,0.312,-0.276,5.694,1.86,0.0,0.0,15.194,0.341,0.665,47.3,"Mandatory tutoring referral, early alert to instructors and academic recovery plan."
+Overextended Part-Time Workers,447,0.815,2.393,0.758,0.249,0.329,-0.241,6.159,2.034,0.0,1.0,25.081,0.385,0.671,26.9,"Flexible scheduling, online section options and time management coaching."
+Financial Barrier,256,0.857,2.568,0.765,0.226,0.363,-0.205,5.906,2.25,1.0,0.348,18.648,0.375,0.595,15.4,"Financial aid counseling, emergency grant screening and hold resolution before registration."
+Disengaged / Fading Out,171,0.741,2.11,0.669,0.287,0.19,-0.273,27.485,1.275,0.076,0.31,17.661,0.251,0.866,10.3,Proactive outreach within 48 hours of 7+ days LMS inactivity; peer mentor check-in.
